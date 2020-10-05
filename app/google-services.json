@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "470933148356",
+    "firebase_url": "https://recipe-maker-dea16.firebaseio.com",
+    "project_id": "recipe-maker-dea16",
+    "storage_bucket": "recipe-maker-dea16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470933148356:android:b5934056cbb7e366ffaf91",
+        "android_client_info": {
+          "package_name": "com.example.noman_000.android_recipe_maker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470933148356-lf9rmi85j6t43r9don68mupe7le8s7bv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.noman_000.android_recipe_maker",
+            "certificate_hash": "68e6cc37b50eca4f88ceaa6bc5ffeefb20895e7e"
+          }
+        },
+        {
+          "client_id": "470933148356-ei377rg6kbf3lrh7js98vne8rscgesrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3jKbmaMf9G7xb5tUgcCiKixU0304Khz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470933148356-ei377rg6kbf3lrh7js98vne8rscgesrt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

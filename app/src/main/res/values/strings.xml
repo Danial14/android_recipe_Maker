@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Android_Recipe_Maker</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="login">Login</string>
+    <string name="Not_a_MeMber">Not a member yet? Signup</string>
+    <string name="signup">Signup</string>
+    <string name="already_a_MeMber">Already a member? Login</string>
+    <string name="PREFERENCES_FILE_NAME">com.example.noman_000.android_recipe_maker.User_EMail</string>
+    <string name="EMAIL_SET_KEY">USER_EMAIL</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dinner_ingredients">Dinner ingredients</string>
+    <string name="lunch_ingredients">Lunch ingredients</string>
+    <string name="breakfast_ingredients">Breakfast ingredients</string>
+    <string name="appetizers_ingredients">Appetizers ingredients</string>
+    <string name="salad_ingredients">Salad ingredients</string>
+    <string name="search_recipe">Enter ingredients</string>
+    <string name="search_activity">SearchRecipe</string>
+    <string name="intent_search">android.intent.action.SEARCH</string>
+    <string name="query_guidence">When you provide Multiple ingredients so please insert a comma (,)
+    between theM thank you</string>
+    <string name="ok_button">OK</string>
+    <string name="facebook_app_ID">601559463776215</string>
+</resources>

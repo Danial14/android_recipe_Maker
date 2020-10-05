@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Latest recipes"
+        app:showAsAction="never"
+        android:id="@+id/latest_recipes"
+        />
+    <item
+        android:title="Logout"
+        app:showAsAction="never"
+        android:id="@+id/logout"
+        />
+    <item
+        android:title="View backup"
+        app:showAsAction="never"
+        android:id="@+id/view_backup"
+        />
+    <item
+        android:title="Restore backup"
+        app:showAsAction="never"
+        android:id="@+id/restore_backup"
+        />
+</menu>
